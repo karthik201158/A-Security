@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Biometric</string>
+
+
+    <string name="message_no_support_biometrics">No biometric features available on this device.</string>
+    <string name="message_no_hardware_available">Biometric features are currently unavailable.</string>
+    <string name="error_security_update_required">A security vulnerability has been discovered with one or more hardware sensors. The affected sensor(s) are unavailable until a security update has addressed the issue.</string>
+    <string name="error_unknown">Unknown error.</string>
+    <string name="prompt_info_title">Log in</string>
+    <string name="prompt_info_subtitle">Biometric login for MyApp</string>
+    <string name="prompt_info_description">Log in using your biometric credential</string>
+    <string name="prompt_info_use_app_password">Use App Password</string>
+
+
+
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
 </resources>
